@@ -1,4 +1,4 @@
-# Causal_Analysis [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Causal_Analysis/HEAD)
+# Causal Analysis [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Causal_Analysis/HEAD)
 Repo for all the Causal Analysis article code and notebook.
 
 |Article|Link|
